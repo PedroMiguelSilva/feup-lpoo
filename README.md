@@ -13,19 +13,19 @@ The Maze Runner inspired game developed in Java.
 
 **Screenshots**
 
-<img src="https://github.com/literallysofia/feup-lpoo/blob/master/Maze%20Runner/Screenshots/1.png" width="400"> <img src="https://github.com/literallysofia/feup-lpoo/blob/master/Maze%20Runner/Screenshots/2.png" width="400">
+<img src="https://github.com/literallysofia/feup-lpoo/blob/master/Maze_Runner/Screenshots/1.png" width="400"> <img src="https://github.com/literallysofia/feup-lpoo/blob/master/Maze_Runner/Screenshots/2.png" width="400">
 
 *.main menu and the beginning of level 1*
 
-<img src="https://github.com/literallysofia/feup-lpoo/blob/master/Maze%20Runner/Screenshots/3.png" width="400"> <img src="https://github.com/literallysofia/feup-lpoo/blob/master/Maze%20Runner/Screenshots/4.png" width="400"><br>
+<img src="https://github.com/literallysofia/feup-lpoo/blob/master/Maze_Runner/Screenshots/3.png" width="400"> <img src="https://github.com/literallysofia/feup-lpoo/blob/master/Maze_Runner/Screenshots/4.png" width="400"><br>
 
 *.halfway through level 1 and level up*
 
-<img src="https://github.com/literallysofia/feup-lpoo/blob/master/Maze%20Runner/Screenshots/5.png" width="400"> <img src="https://github.com/literallysofia/feup-lpoo/blob/master/Maze%20Runner/Screenshots/6.png" width="400"><br>
+<img src="https://github.com/literallysofia/feup-lpoo/blob/master/Maze_Runner/Screenshots/5.png" width="400"> <img src="https://github.com/literallysofia/feup-lpoo/blob/master/Maze_Runner/Screenshots/6.png" width="400"><br>
 
 *.level 2 and game over*
 
-<img src="https://github.com/literallysofia/feup-lpoo/blob/master/Maze%20Runner/Screenshots/7.png" width="400"> <img src="https://github.com/literallysofia/feup-lpoo/blob/master/Maze%20Runner/Screenshots/8.png" width="400"><br>
+<img src="https://github.com/literallysofia/feup-lpoo/blob/master/Maze_Runner/Screenshots/7.png" width="400"> <img src="https://github.com/literallysofia/feup-lpoo/blob/master/Maze_Runner/Screenshots/8.png" width="400"><br>
 
 *.settings and level 3 maze creation*
 
