@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#534847"
+    android:orientation="vertical"
+    android:weightSum="1"
+    tools:context="com.damon.merakiapp.view.IntroActivity">
+
+    <TextView
+        android:id="@+id/merakiIntro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="210dp"
+        android:gravity="center_horizontal"
+        android:lineSpacingExtra="12sp"
+        android:text="MERAKI"
+        android:textAlignment="center"
+        android:textColor="@android:color/background_light"
+        android:textSize="60sp" />
+
+    <TextView
+        android:id="@+id/sloganIntro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Do something with soul."
+        android:textAlignment="center"
+        android:textColor="@android:color/background_light"
+        android:textSize="20sp" />
+</LinearLayout>

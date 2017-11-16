@@ -1,0 +1,66 @@
+{
+  "project_info": {
+    "project_number": "624192922470",
+    "firebase_url": "https://merakiapp-b3d8b.firebaseio.com",
+    "project_id": "merakiapp-b3d8b",
+    "storage_bucket": "merakiapp-b3d8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624192922470:android:948de7ab58061aa6",
+        "android_client_info": {
+          "package_name": "com.damon.merakiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624192922470-jequr13ersbej1ho6gjicqlbfm2o77n6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.damon.merakiapp",
+            "certificate_hash": "0dbc887d552e9ca872633b5636dce11c494048d3"
+          }
+        },
+        {
+          "client_id": "624192922470-utm0l0vfb27qqr61ol3kcti2t3493454.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.damon.merakiapp",
+            "certificate_hash": "ad5f65440233b999a37c213ec4674f09b65c74ea"
+          }
+        },
+        {
+          "client_id": "624192922470-hviudidv4ka1lbkkqr6lmbg5dnb64gdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoHrpEuliIAu6LKsC6xEokU7JMPay1RII"
+        },
+        {
+          "current_key": "AIzaSyAlpBXeM3NM5snge1AbWSSx8443wz41T7Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624192922470-hviudidv4ka1lbkkqr6lmbg5dnb64gdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,63 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:baselineAligned="false"
+    android:orientation="horizontal"
+    android:weightSum="2"
+    tools:context="com.damon.merakiapp.view.CategoryFragment">
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        tools:ignore="UselessParent">
+
+        <ImageButton
+            android:id="@+id/category_button"
+            android:layout_width="fill_parent"
+            android:layout_height="@android:dimen/thumbnail_width"
+            android:background="@drawable/texture"
+            android:contentDescription="@string/grid_category" />
+
+        <FrameLayout
+            android:id="@+id/frameLayout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/category_button"
+            android:layout_gravity="center"
+            android:elevation="100dp">
+
+            <View
+                android:id="@+id/label_background"
+                android:layout_width="fill_parent"
+                android:layout_height="68dp"
+                android:background="@color/colorOpacityGrey" />
+
+            <TextView
+                android:id="@+id/category_name"
+                android:layout_width="fill_parent"
+                android:layout_height="68dp"
+                android:layout_gravity="bottom"
+                android:maxLines="1"
+                android:padding="16dp"
+                android:text="@string/grid_category"
+                android:textColor="@color/colorWhite"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/number_tasks"
+                android:layout_width="fill_parent"
+                android:layout_height="34dp"
+                android:layout_gravity="bottom"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="5dp"
+                android:text="@string/grid_number"
+                android:textColor="@color/colorWhite"
+                android:textSize="12sp" />
+
+        </FrameLayout>
+
+    </RelativeLayout>
+</LinearLayout>
